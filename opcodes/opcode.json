@@ -1,0 +1,35 @@
+{
+"name":"Hack The Mountains",
+"version":"2.0",
+"op_code":[{
+                "role":"Organizer",
+                "index":1,
+                "card_color":"#7F1E8E",
+                "font_color":"#FFFFFF"
+              },
+              {
+                "role":"Web Engineering",
+                "index":2,
+                "card_color":"#00AADF",
+                "font_color":"#FFFFFF"
+              },
+              {
+                "role":"Content Specialist",
+                "index":3,
+                "card_Background":"#EFA744",
+                "font_color":"#202136"
+              },
+              {
+                "role":"Graphics Specialist",
+                "index":4,
+                "card_color":"#13B6A2",
+                "font_color":"#FFFFFF"
+              },
+              {
+                "role":"Outreach Evangelists",
+                "index":5,
+                "card_color":"#DC8F8F",
+                "font_color":"#000000"
+              }          
+]
+}
