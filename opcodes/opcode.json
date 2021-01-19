@@ -8,12 +8,6 @@
                 "font_color":"#FFFFFF"
               },
               {
-                "role":"Web Engineering Team Lead",
-                "index":2.1,
-                "card_color":"#00AADF",
-                "font_color":"#FFFFFF"
-              },
-              {
                 "role":"Web Engineering",
                 "index":2,
                 "card_color":"#00AADF",
@@ -26,22 +20,10 @@
                 "font_color":"#202136"
               },
               {
-                "role":"Graphics Designing Team Lead",
-                "index":4.1,
-                "card_color":"#13B6A2",
-                "font_color":"#FFFFFF"
-              },
-              {
                 "role":"Graphics Specialist",
                 "index":4,
                 "card_color":"#13B6A2",
                 "font_color":"#FFFFFF"
-              },
-              {
-                "role":"Outreach Evangelism Lead",
-                "index":5.1,
-                "card_color":"#DC8F8F",
-                "font_color":"#000000"
               },
               {
                 "role":"Outreach Evangelist",
