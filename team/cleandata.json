@@ -51,6 +51,12 @@
       "image":"https://media-exp1.licdn.com/dms/image/C5635AQHwhqcTP9D-Bw/profile-framedphoto-shrink_400_400/0/1601633740189?e=1611129600&v=beta&t=-2giVl6a8RRno7W4aewR_68Ok7wu6e9kHUOxZqMxc2Q",
       "linkedin":"https://www.linkedin.com/in/aishwaryaprakash2903/"
     },
+      {
+      "role_index":4,
+      "name":"Shristi Jalan",
+      "image":"https://media-exp1.licdn.com/dms/image/C5603AQGk9SUeQbhhxg/profile-displayphoto-shrink_400_400/0/1601564219679?e=1616630400&v=beta&t=ZRBURChesU0gGCXz_jP5ccziEVef2zLFAHTxAjvl1rA",
+      "linkedin":"https://www.linkedin.com/in/shristijalan/"
+    },
     {
       "role_index":5,
       "name":"Navya Jyoti",
@@ -68,6 +74,7 @@
       "name":"Reeti Jha",
       "image":"https://media-exp1.licdn.com/dms/image/C4D03AQFFyoSETOHOMQ/profile-displayphoto-shrink_400_400/0/1605629271702?e=1616630400&v=beta&t=zLVFiKLoj7iJkOq4KkGQKvp-aiqXFrWb2G3WadzEM9k",
       "linkedin":"https://www.linkedin.com/in/reeti-jha-9672691b4/"
-    }
+    },
+  
   ]
 }
