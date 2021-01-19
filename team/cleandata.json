@@ -3,7 +3,7 @@
 "version":"2.0",
 "team_data":[
     {
-      "role_index":1,
+      "role_index":1.1,
       "name":"Avinash Koshal",
       "image":"https://media-exp1.licdn.com/dms/image/C5103AQGDjPMi6yDxnA/profile-displayphoto-shrink_400_400/0/1585395662338?e=1616025600&v=beta&t=_KjHpzKSxkt5Kgi_4BqFxG1OJHSGIHOcur1d-yV8znc",
       "linkedin":"https://www.linkedin.com/in/avinashkoshal/",
@@ -18,7 +18,7 @@
 
     },
     {
-      "role_index":2,
+      "role_index":2.1,
       "name":"Abir Pal",
       "image":"https://avatars3.githubusercontent.com/u/53480076?s=460&u=c1aad58f1a773750a47475682afa80ac3b74f583&v=4",
       "linkedin":"https://www.linkedin.com/in/imabp/",
@@ -34,7 +34,7 @@
       "external":"https://shashwat-mishra.netlify.app/"
     },
     {
-      "role_index": 4,
+      "role_index": 4.1,
       "name":"Ankit Kapoor",
       "image":"https://media-exp1.licdn.com/dms/image/C4E03AQF5JGGS9ual6g/profile-displayphoto-shrink_400_400/0/1608619857782?e=1616630400&v=beta&t=2OrFaSrska30r5COfcx0aKB0eKpxfTVavjTKuQax1uY",
       "linkedin":"https://www.linkedin.com/in/ankit-kapoor-2ab875148/"
@@ -45,12 +45,6 @@
       "image":"https://media-exp1.licdn.com/dms/image/C4D03AQGHz8V-vKCo2Q/profile-displayphoto-shrink_400_400/0/1585331436122?e=1616630400&v=beta&t=U0rSZzj3dT96-suvyRU7z_SBfCiPwjxnxt0Iev0p9n0",
       "linkedin":"https://www.linkedin.com/in/ravula-sreeja-596201190/"
     },
-    {
-      "role_index": 4,
-      "name":"Aishwarya Prakash",
-      "image":"https://media-exp1.licdn.com/dms/image/C5635AQHwhqcTP9D-Bw/profile-framedphoto-shrink_400_400/0/1601633740189?e=1611129600&v=beta&t=-2giVl6a8RRno7W4aewR_68Ok7wu6e9kHUOxZqMxc2Q",
-      "linkedin":"https://www.linkedin.com/in/aishwaryaprakash2903/"
-    },
       {
       "role_index":4,
       "name":"Shristi Jalan",
@@ -58,7 +52,7 @@
       "linkedin":"https://www.linkedin.com/in/shristijalan/"
     },
     {
-      "role_index":5,
+      "role_index":5.1,
       "name":"Navya Jyoti",
       "image":"https://media-exp1.licdn.com/dms/image/C4D03AQFcWQhDnuvKwg/profile-displayphoto-shrink_400_400/0/1579800226662?e=1616630400&v=beta&t=lpy_aNS1FfeMryHxb6Xs5rDkGJb3q8Am7Ysyh4xnrdA",
       "linkedin":"https://www.linkedin.com/in/navya-jyoti/"
