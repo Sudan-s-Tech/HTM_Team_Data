@@ -1,5 +1,3 @@
-
-
 {
 "name":"Hack The Mountains",
 "version":"2.0",
@@ -39,37 +37,37 @@
       "role_index": 4,
       "name":"Ankit Kapoor",
       "image":"https://media-exp1.licdn.com/dms/image/C4E03AQF5JGGS9ual6g/profile-displayphoto-shrink_400_400/0/1608619857782?e=1616630400&v=beta&t=2OrFaSrska30r5COfcx0aKB0eKpxfTVavjTKuQax1uY",
-      "linkedin":"https://www.linkedin.com/in/ankit-kapoor-2ab875148/",
+      "linkedin":"https://www.linkedin.com/in/ankit-kapoor-2ab875148/"
     },
     {
       "role_index": 4,
       "name":"Ravula Sreeja",
       "image":"https://media-exp1.licdn.com/dms/image/C4D03AQGHz8V-vKCo2Q/profile-displayphoto-shrink_400_400/0/1585331436122?e=1616630400&v=beta&t=U0rSZzj3dT96-suvyRU7z_SBfCiPwjxnxt0Iev0p9n0",
-      "linkedin":"https://www.linkedin.com/in/ravula-sreeja-596201190/",
+      "linkedin":"https://www.linkedin.com/in/ravula-sreeja-596201190/"
     },
     {
       "role_index": 4,
       "name":"Aishwarya Prakash",
       "image":"https://media-exp1.licdn.com/dms/image/C5635AQHwhqcTP9D-Bw/profile-framedphoto-shrink_400_400/0/1601633740189?e=1611129600&v=beta&t=-2giVl6a8RRno7W4aewR_68Ok7wu6e9kHUOxZqMxc2Q",
-      "linkedin":"https://www.linkedin.com/in/aishwaryaprakash2903/",
+      "linkedin":"https://www.linkedin.com/in/aishwaryaprakash2903/"
     },
     {
       "role_index":5,
       "name":"Navya Jyoti",
       "image":"https://media-exp1.licdn.com/dms/image/C4D03AQFcWQhDnuvKwg/profile-displayphoto-shrink_400_400/0/1579800226662?e=1616630400&v=beta&t=lpy_aNS1FfeMryHxb6Xs5rDkGJb3q8Am7Ysyh4xnrdA",
-      "linkedin":"https://www.linkedin.com/in/navya-jyoti/",
+      "linkedin":"https://www.linkedin.com/in/navya-jyoti/"
     },
     {
       "role_index":3,
       "name":"Anmol Reshi",
       "image":"https://media-exp1.licdn.com/dms/image/C4D03AQEYF3AHasIDcA/profile-displayphoto-shrink_400_400/0/1607350084061?e=1616630400&v=beta&t=0jBj6CMdTzuOivNCxDnCpL691QHcDcC7721nadY2CGI",
-      "linkedin":"https://www.linkedin.com/in/anmolreshi/",
+      "linkedin":"https://www.linkedin.com/in/anmolreshi/"
     },
      {
       "role_index":3,
       "name":"Reeti Jha",
       "image":"https://media-exp1.licdn.com/dms/image/C4D03AQFFyoSETOHOMQ/profile-displayphoto-shrink_400_400/0/1605629271702?e=1616630400&v=beta&t=zLVFiKLoj7iJkOq4KkGQKvp-aiqXFrWb2G3WadzEM9k",
-      "linkedin":"https://www.linkedin.com/in/reeti-jha-9672691b4/",
+      "linkedin":"https://www.linkedin.com/in/reeti-jha-9672691b4/"
     }
   ]
 }
