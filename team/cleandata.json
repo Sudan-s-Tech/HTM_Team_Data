@@ -1,85 +1,86 @@
 {
-"name":"Hack The Mountains",
-"version":"2.0",
-"team_data":[
-    {
-      "role_index":1,
-      "name":"Avinash Koshal",
-      "designation":"Lead",
-      "image":"https://media-exp1.licdn.com/dms/image/C5103AQGDjPMi6yDxnA/profile-displayphoto-shrink_400_400/0/1585395662338?e=1616025600&v=beta&t=_KjHpzKSxkt5Kgi_4BqFxG1OJHSGIHOcur1d-yV8znc",
-      "linkedin":"https://www.linkedin.com/in/avinashkoshal/",
-      "github":"https://github.com/aaavinash85"
-    },
-    {
-      "role_index":1,
-      "name":"Mohit Sharma",
-      "designation":"Co-Lead",
-      "image":"https://media-exp1.licdn.com/dms/image/C5103AQEE6yn1FPc3YQ/profile-displayphoto-shrink_400_400/0/1586076770803?e=1616025600&v=beta&t=evkwXxUzpODkdMGPaDlVE7Z-jNYT1xz9YAPnhdVHzrE",
-      "linkedin":"https://www.linkedin.com/in/mohit-sharma-9ba35aa0/",
-      "github":"https://github.com/Mohit-Sharma1"
-
-    },
-    {
-      "role_index":2,
-      "name":"Abir Pal",
-      "designation":"Team Lead",
-      "image":"https://avatars3.githubusercontent.com/u/53480076?s=460&u=c1aad58f1a773750a47475682afa80ac3b74f583&v=4",
-      "linkedin":"https://www.linkedin.com/in/imabp/",
-      "github":"https://github.com/imabp",
-      "external":"https://abirpal.netlify.com"
-    },
-    {
-      "role_index":2,
-      "name":"Shashwat Mishra",
-      "image":"https://cdn.image4.io/htm20/f_auto/149a53a8-4c2f-47d5-a308-e74296ca351d.png",
-      "linkedin":"https://www.linkedin.com/in/shashwat-mishra-699bab194/",
-      "github":"https://github.com/ampsteric",
-      "external":"https://shashwat-mishra.netlify.app/"
-    },
-    {
-      "role_index": 5,
-      "name":"Sandeep Singh",
-      "designation":"Team Lead",
-      "image":"https://media-exp1.licdn.com/dms/image/C4E03AQEqTQplP17jJg/profile-displayphoto-shrink_800_800/0/1596538196854?e=1620864000&v=beta&t=bFKqP7MExdlMVuIX4QIbj-YjjQhABTQJkRQWlphivh0",
-      "linkedin":"https://www.linkedin.com/in/sandybcsald/"
-    },
-    {
-      "role_index": 4,
-      "name":"Ravula Sreeja",
-      "image":"https://media-exp1.licdn.com/dms/image/C4D03AQGHz8V-vKCo2Q/profile-displayphoto-shrink_400_400/0/1585331436122?e=1616630400&v=beta&t=U0rSZzj3dT96-suvyRU7z_SBfCiPwjxnxt0Iev0p9n0",
-      "linkedin":"https://www.linkedin.com/in/ravula-sreeja-596201190/"
-    },
+  "name":"Hack The Mountains",
+  "version":"2.0",
+  "team_data":[
       {
-      "role_index":4,
-      "name":"Shristi Jalan",
-      "image":"https://media-exp1.licdn.com/dms/image/C5603AQGk9SUeQbhhxg/profile-displayphoto-shrink_400_400/0/1601564219679?e=1616630400&v=beta&t=ZRBURChesU0gGCXz_jP5ccziEVef2zLFAHTxAjvl1rA",
-      "linkedin":"https://www.linkedin.com/in/shristijalan/"
-    },
-    {
-      "role_index":5,
-      "name":"Navya Jyoti",
-      "designation":"Team Lead",
-      "image":"https://cdn.image4.io/htm20/f_auto/d205a92a-40bf-4ebe-abb9-f90f4bd059f4.png",
-      "linkedin":"https://www.linkedin.com/in/navya-jyoti/"
-    },
-    {
-      "role_index":5,
-      "name":"Rakshith Ramesh",
-      "image":"https://media-exp1.licdn.com/dms/image/C4D03AQEDf1G-YAiV5w/profile-displayphoto-shrink_400_400/0/1612178959674?e=1617840000&v=beta&t=IQvDkbc3iGF0XC3tlBdIKdiq8swD5GDIXlpy6VNFZf0",
-      "linkedin":"https://www.linkedin.com/in/rakshith-ramesh-10/",
-      "external":"https://rakshith10-portfolio.netlify.app/"  
-    },
-    {
-      "role_index":3,
-      "name":"Anmol Reshi",
-      "image":"https://media-exp1.licdn.com/dms/image/C4D03AQH7iKdNMXzjwg/profile-displayphoto-shrink_800_800/0/1611332640446?e=1616630400&v=beta&t=jb7ZauaTjsA-ZP94jh26ehzfhSiu4pReXTidu4e8kaQ",
-      "linkedin":"https://www.linkedin.com/in/anmolreshi/"
-    },
-     {
-      "role_index":3,
-      "name":"Reeti Jha",
-      "image":"https://media-exp1.licdn.com/dms/image/C4D03AQFFyoSETOHOMQ/profile-displayphoto-shrink_400_400/0/1605629271702?e=1616630400&v=beta&t=zLVFiKLoj7iJkOq4KkGQKvp-aiqXFrWb2G3WadzEM9k",
-      "linkedin":"https://www.linkedin.com/in/reeti-jha-9672691b4/"
-    }
-  ]
-}
+        "role_index":1,
+        "name":"Avinash Koshal",
+        "designation":"Lead",
+        "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/avinash.jpeg",
+        "linkedin":"https://www.linkedin.com/in/avinashkoshal/",
+        "github":"https://github.com/aaavinash85"
+      },
+      {
+        "role_index":1,
+        "name":"Mohit Sharma",
+        "designation":"Co-Lead",
+        "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/mohit.jpeg",
+        "linkedin":"https://www.linkedin.com/in/mohit-sharma-9ba35aa0/",
+        "github":"https://github.com/Mohit-Sharma1"
+  
+      },
+      {
+        "role_index":2,
+        "name":"Abir Pal",
+        "designation":"Team Lead",
+        "image":"https://avatars3.githubusercontent.com/u/53480076?s=460&u=c1aad58f1a773750a47475682afa80ac3b74f583&v=4",
+        "linkedin":"https://www.linkedin.com/in/imabp/",
+        "github":"https://github.com/imabp",
+        "external":"https://abirpal.netlify.com"
+      },
+      {
+        "role_index":2,
+        "name":"Shashwat Mishra",
+        "image":"https://cdn.image4.io/htm20/f_auto/149a53a8-4c2f-47d5-a308-e74296ca351d.png",
+        "linkedin":"https://www.linkedin.com/in/shashwat-mishra-699bab194/",
+        "github":"https://github.com/ampsteric",
+        "external":"https://shashwat-mishra.netlify.app/"
+      },
+      {
+        "role_index": 5,
+        "name":"Sandeep Singh",
+        "designation":"Team Lead",
+        "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/sandeep.jpeg",
+        "linkedin":"https://www.linkedin.com/in/sandybcsald/"
+      },
+      {
+        "role_index": 4,
+        "name":"Ravula Sreeja",
+        "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/sreeja.jpeg",
+        "linkedin":"https://www.linkedin.com/in/ravula-sreeja-596201190/"
+      },
+        {
+        "role_index":4,
+        "name":"Shristi Jalan",
+        "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/shrishti.jpeg",
+        "linkedin":"https://www.linkedin.com/in/shristijalan/"
+      },
+      {
+        "role_index":5,
+        "name":"Navya Jyoti",
+        "designation":"Team Lead",
+        "image":"https://cdn.image4.io/htm20/f_auto/d205a92a-40bf-4ebe-abb9-f90f4bd059f4.png",
+        "linkedin":"https://www.linkedin.com/in/navya-jyoti/"
+      },
+      {
+        "role_index":5,
+        "name":"Rakshith Ramesh",
+        "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/rakshit.jpeg",
+        "linkedin":"https://www.linkedin.com/in/rakshith-ramesh-10/",
+        "external":"https://rakshith10-portfolio.netlify.app/"  
+      },
+      {
+        "role_index":3,
+        "name":"Anmol Reshi",
+        "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/anmol.jpeg",
+        "linkedin":"https://www.linkedin.com/in/anmolreshi/"
+      },
+       {
+        "role_index":3,
+        "name":"Reeti Jha",
+        "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/reethi.jpeg",
+        "linkedin":"https://www.linkedin.com/in/reeti-jha-9672691b4/"
+      }
+    ]
+  }
+  
