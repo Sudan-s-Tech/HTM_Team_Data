@@ -80,13 +80,11 @@
         "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/reethi.jpeg",
         "linkedin":"https://www.linkedin.com/in/reeti-jha-9672691b4/"
       },
-       {
-        "role_index":5,
-        "name":"Maitri Pasale",
-        "designation":"Sponsorship Lead",
-        "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/abc.jpeg",
-        "linkedin":"https://www.linkedin.com/in/maitri-pasale",
-        "github":"https://github.com/maitripasale"
+      {
+      "role_index":5,
+      "name":"Divya Sri",
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/Screenshot_2021-05-21%20Sudan-s-Tech%20HTM_Team_Data.png",
+      "linkedin":"https://www.linkedin.com/in/divya-sri-a188321bb/"
       },
       {
         "role_index":5,
@@ -95,12 +93,6 @@
         "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/abc.jpeg",
         "linkedin":"https://www.linkedin.com/in/maitri-pasale",
         "github":"https://github.com/maitripasale"
-      },
-    {
-      "role_index":5,
-      "name":"Divya Sri",
-      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/Divya%20Sri.jpg",
-      "linkedin":"https://www.linkedin.com/in/divya-sri-a188321bb/"
-    }
+      }
     ]
   }
