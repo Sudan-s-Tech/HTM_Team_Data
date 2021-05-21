@@ -37,9 +37,16 @@
         "external":"#"
       },
       {
+        "role_index":5,
+        "name":"Rakshith Ramesh",
+        "designation":"Team Lead",
+        "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/rakshit.jpeg",
+        "linkedin":"https://www.linkedin.com/in/rakshith-ramesh-10/",
+        "external":"https://rakshith10-portfolio.netlify.app/"  
+      },
+      {
         "role_index": 5,
         "name":"Sandeep Singh",
-        "designation":"Team Lead",
         "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/sandeep.jpeg",
         "linkedin":"https://www.linkedin.com/in/sandybcsald/"
       },
@@ -58,16 +65,8 @@
       {
         "role_index":5,
         "name":"Navya Jyoti",
-        "designation":"Team Lead",
         "image":"https://cdn.image4.io/htm20/f_auto/d205a92a-40bf-4ebe-abb9-f90f4bd059f4.png",
         "linkedin":"https://www.linkedin.com/in/navya-jyoti/"
-      },
-      {
-        "role_index":5,
-        "name":"Rakshith Ramesh",
-        "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/rakshit.jpeg",
-        "linkedin":"https://www.linkedin.com/in/rakshith-ramesh-10/",
-        "external":"https://rakshith10-portfolio.netlify.app/"  
       },
       {
         "role_index":3,
@@ -88,7 +87,20 @@
         "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/abc.jpeg",
         "linkedin":"https://www.linkedin.com/in/maitri-pasale",
         "github":"https://github.com/maitripasale"
-      }
+      },
+      {
+        "role_index":5,
+        "name":"Maitri Pasale",
+        "designation":"Sponsorship Lead",
+        "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/abc.jpeg",
+        "linkedin":"https://www.linkedin.com/in/maitri-pasale",
+        "github":"https://github.com/maitripasale"
+      },
+    {
+      "role_index":5,
+      "name":"Divya Sri",
+      "image":"https://raw.githubusercontent.com/Sudan-s-Tech/HTM_Team_Data/main/team/pics/Divya%20Sri.jpg",
+      "linkedin":"https://www.linkedin.com/in/divya-sri-a188321bb/"
+    }
     ]
   }
-  
