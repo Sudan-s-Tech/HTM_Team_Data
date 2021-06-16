@@ -5,14 +5,14 @@
       {
         "name":"Aayush Ahuja",
         "designation":"MTS Intern at Nutanix",
-        "image":"https://drive.google.com/open?id=1pXyo_DXjpIp7frowLkjKv9RxRNTdQrUG",
+        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702394783825950/IMG_20210311_202810_-_Aayush_Ahuja.jpg",
         "linkedin":"https://www.linkedin.com/in/CodeAayu",
         "email":"aayushahuja12@gmail.com"
       },
       {
         "name":"Nikita Vasilev",
         "designation":"Data Engineer at Innotech (VTB)",
-        "image":"https://drive.google.com/open?id=1El5PZ9QntI3xy3tzunRaIv0j6Erqy2UZ",
+        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702371828924416/photo_2020-11-13_11.44.16_-_.jpeg",
         "linkedin":"linkedin.com/in/никита-васильев-127552176",
         "email":"ng.vasiljev@physics.msu.ru"
   
@@ -20,14 +20,14 @@
       {
         "name":"Veronika Golubeva",
         "designation":"Senior data analyst at Sberbank",
-        "image":"https://drive.google.com/open?id=1aDXq7ybBjOmS6h5TeQdphfQfz9RuNv9C",
+        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702365671555072/photo_2021-04-09_19-50-30_-_.jpg",
         "linkedin":"https://www.linkedin.com/in/golubeva-veronika-360331147",
         "email":"nikagolybeva@gmail.com"
       },
       {
         "name":"Dmitrii Bormotov",
         "designation":"QA Automation Engineer",
-        "image":"https://drive.google.com/open?id=1UjsSPQFl6twjQMmncea2AiyOQ6v2HCoO",
+        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702364664397844/500x500_-_Dmitrii_Bormotov.jpg",
         "linkedin":"https://www.linkedin.com/in/bormando/",
         "email":"squier7@gmail.com",
         "external":"#"
@@ -35,44 +35,58 @@
       {
         "name":"Erzhan Torokulov",
         "designation":"Principal Engineer at Toptal Core",
-        "image":"https://drive.google.com/open?id=1Du-ZP8E3ZZFCrBTtSODFfq9vmAn4vbhN",
+        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702364317450250/Profile-5-Square_-_Erzhan_Torokulov.jpg",
         "linkedin":"https://twitter.com/erzhtor",
         "email":"erzhan.torokulov@gmail.com"  
       },
       {
         "name":"Aditya Jyoti Paul",
         "designation":"Founder and Head of Research, Cognitive Applications Research Lab",
-        "image":"https://drive.google.com/open?id=16s2RhtMdFAL_n9PBQVpjZhFnfIg5NNr3",
+        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702380637749248/Aditya_Jyoti_Paul-centered_-_Aditya_Jyoti_Paul.jpg",
         "linkedin":"https://www.linkedin.com/in/phreakyphoenix/",
         "email":"adityajyotipaul007@gmail.com"
       },
       {
         "name":"Smriti Mishra",
         "designation":"Head of AI, Earthbanc",
-        "image":"https://drive.google.com/open?id=14mIOirpi9WBSo6o1FzJuY25V2hUPfnch",
+        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702358868131840/Webp.net-resizeimage_-_Smriti_Mishra.jpg",
         "linkedin":"https://www.linkedin.com/in/smritimishra",
         "email":"smriti@earthbanc.io"
       },
         {
         "name":"Praveen Kumar Purushothaman",
         "designation":"Full Stack JavaScript Specialist",
-        "image":"https://drive.google.com/open?id=1oklE4QYrXGTPXrXAOjxAaE7tjcdj3aLe",
+        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702388246347808/Praveen-34-Glow-Bright35_-_Praveen_Kumar_Purushothaman.png",
         "linkedin":"https://www.linkedin.com/in/praveentech/",
         "email":"praveenscience@gmail.com"
       },
       {
         "name":"Shivam Kumar Singh",
         "designation":"Founder & CEO at Spaceonova",
-        "image":"https://drive.google.com/open?id=1dBMHVFBcbWcYL9DgJ8JJ2y3POcScDkw4",
+        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702351638200380/Shivam_Transparent_-_Shivam_Kumar_Singh.png",
         "linkedin":"https://www.linkedin.com/in/shivamksingh/",
         "email":"network@spaceonova.com"
       },
       {
         "name":"Augustine Correa",
         "designation":"CTO",
-        "image":"https://drive.google.com/open?id=1ZSZXcBgZvB75NbnMPwxk6EhgUIjinxem",
+        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702364639494154/augustine1_-_Augustine_Correa.jpg",
         "linkedin":"https://twitter.com/hackmum?lang=en",
         "email":"augcor@gmail.com"
+      },
+      {
+        "name":"Arjun Ravindran",
+        "designation":"Python",
+        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854706891230150666/20BECTLY344-PHOTO_-_Arjun_Ravindran.jpg",
+        "linkedin":"https://www.linkedin.com/in/arjun-ravindran-525456214",
+        "email":"arjunravindran122@gmail.com"
+      },
+      {
+        "name":"Arjun Arayakandi",
+        "designation":"Python",
+        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854706893733363722/photo_1-min-01_-_arjun_ajith.jpeg",
+        "linkedin":"https://www.linkedin.com/mwlite/in/arjun-arayakandi-513546214",
+        "email":"arjunajith250306@gmail.com"
       }
     ]
   }
