@@ -3,13 +3,6 @@
   "version":"2.0",
   "team_data":[
       {
-        "name":"Aayush Ahuja",
-        "designation":"MTS Intern at Nutanix",
-        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702394783825950/IMG_20210311_202810_-_Aayush_Ahuja.jpg",
-        "linkedin":"https://www.linkedin.com/in/CodeAayu",
-        "email":"aayushahuja12@gmail.com"
-      },
-      {
         "name":"Nikita Vasilev",
         "designation":"Data Engineer at Innotech (VTB)",
         "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702371828924416/photo_2020-11-13_11.44.16_-_.jpeg",
@@ -39,9 +32,16 @@
         "linkedin":"https://twitter.com/erzhtor",
         "email":"erzhan.torokulov@gmail.com"  
       },
+     {
+        "name":"Aayush Ahuja",
+        "designation":"MTS Intern at Nutanix",
+        "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702394783825950/IMG_20210311_202810_-_Aayush_Ahuja.jpg",
+        "linkedin":"https://www.linkedin.com/in/CodeAayu",
+        "email":"aayushahuja12@gmail.com"
+      },
       {
         "name":"Aditya Jyoti Paul",
-        "designation":"Founder and Head of Research, Cognitive Applications Research Lab",
+        "designation":"Founder,Cognitive Applications Research Lab",
         "image":"https://cdn.discordapp.com/attachments/854702263074816000/854702380637749248/Aditya_Jyoti_Paul-centered_-_Aditya_Jyoti_Paul.jpg",
         "linkedin":"https://www.linkedin.com/in/phreakyphoenix/",
         "email":"adityajyotipaul007@gmail.com"
